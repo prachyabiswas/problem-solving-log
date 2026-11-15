@@ -52,7 +52,6 @@ Each problem is a single Markdown file named by source and number, for example `
 | Analysis | 0 | 0 | 0 | 0 |
 | Geometry | 0 | 0 | 0 | 0 |
 | Combinatorics | 0 | 0 | 0 | 0 |
-| Mock tests completed | 0 | | | |
 
 ## Author
 
