@@ -1,7 +1,7 @@
 
 ## What goes in this repository
 
-- Problems from past olympiads and undergraduate competitions (IMC, Putnam-style problems, and others).
+- Problems from past olympiads(IMC, Putnam-style problems, and others).
 - My own written solutions, in full.
 - A review note for every problem, describing where I got stuck and what idea resolved it.
 
